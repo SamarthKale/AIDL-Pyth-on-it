@@ -43,6 +43,13 @@ Visualize data using graphs and charts.
 
 ---
 
+### 🟣 ML
+Train your ML model and types of training.
+
+👉 https://colab.research.google.com/drive/1nVEYjeyJ9h_d-yaQL-ZLqfmcxGGwlyC0?usp=sharing
+
+---
+
 ## 🧠 Learning Flow (Recommended Order)
 
 1. Start with **Python Basics**
